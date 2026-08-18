@@ -63,7 +63,7 @@
   <h2>🛠️ Tech Stack</h2>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,cpp,php,arduino,git,github,vscode,fritzing&perline=8" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,php,arduino,git,github,vscode&perline=8" alt="Tech Stack Icons" />
   </a>
 </div>
 
