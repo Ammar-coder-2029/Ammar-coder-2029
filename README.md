@@ -51,7 +51,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/Ammar-coder-2029/Ammar-coder-2029/blob/main/social-media-dark.png?raw=true&fit=crop&w=400&q=80" alt="Coding Illustration" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Ammar-coder-2029/Ammar-coder-2029/blob/main/social-media-dark.png?raw=true" alt="Coding Illustration" width="100%" style="border-radius: 12px;">
     </td>
   </tr>
 </table>
@@ -74,15 +74,16 @@
   <h2>📈 GitHub Analytics</h2>
   <br/>
   <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar-coder-2029&theme=custom&background=00000000&border=00BFFF&stroke=00BFFF&ring=87CEFA&fire=00BFFF&currStreakNum=00BFFF&sideNums=87CEFA&currStreakLabel=00BFFF&sideLabels=87CEFA&dates=87CEFA" alt="GitHub Streak Stats" />
+    <img height="180em" src="https://streak-stats.demolab.com/?user=Ammar-coder-2029&theme=custom&background=00000000&border=00BFFF&stroke=00BFFF&ring=87CEFA&fire=00BFFF&currStreakNum=00BFFF&sideNums=87CEFA&currStreakLabel=00BFFF&sideLabels=87CEFA&dates=87CEFA&timezone=Africa/Cairo" alt="GitHub Streak Stats" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Ammar-coder-2029&theme=react-dark&bg_color=0D1117&color=00BFFF&line=87CEFA&point=E0FFFF&area=true&hide_border=false" alt="Activity Graph" />
+    <img height="180em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Ammar-coder-2029&theme=react-dark&bg_color=0D1117&color=00BFFF&line=87CEFA&point=E0FFFF&area=true&hide_border=false" alt="Activity Graph" />
   </p>
 </div>
 
 <br/><br/>
 
 <!-- Contribution Snake -->
+<!-- ده بيشتغل بس لو معمول عندك GitHub Action (platane/snk) بتولّد الملفين دول على branch اسمه output -->
 <div align="center">
   <h2>🐍 Contribution Snake</h2>
   <br/>
@@ -106,11 +107,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/eng_ammar_">
       <img src="https://img.shields.io/badge/Instagram-E0FFFF?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <!-- يمكنك إزالة منصة X إذا كنت لا تستخدمها، أو إضافة اليوزر الخاص بك مكان الأقواس المربعة -->
-    <a href="https://x.com/[YOUR_X_HANDLE]">
-      <img src="https://img.shields.io/badge/X-87CEFA?style=for-the-badge&logo=x&logoColor=white" alt="X">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:eng.ammar2029@gmail.com">
