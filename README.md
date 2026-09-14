@@ -73,7 +73,7 @@
   <h2>📈 GitHub Analytics</h2>
   <br/>
   <p align="center">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=Ammar-coder-2029&theme=custom&background=00000000&border=00BFFF&stroke=00BFFF&ring=87CEFA&fire=00BFFF&currStreakNum=00BFFF&sideNums=87CEFA&currStreakLabel=00BFFF&sideLabels=87CEFA&dates=87CEFA&timezone=Africa/Cairo" alt="GitHub Streak Stats" />
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Ammar-coder-2029&theme=custom&background=00000000&border=00BFFF&stroke=00BFFF&ring=87CEFA&fire=00BFFF&currStreakNum=00BFFF&sideNums=87CEFA&currStreakLabel=00BFFF&sideLabels=87CEFA&dates=87CEFA&timezone=Africa/Cairo" alt="GitHub Streak Stats" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="180em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Ammar-coder-2029&theme=react-dark&bg_color=0D1117&color=00BFFF&line=87CEFA&point=E0FFFF&area=true&hide_border=false" alt="Activity Graph" />
   </p>
