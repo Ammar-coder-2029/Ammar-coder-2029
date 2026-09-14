@@ -1,7 +1,6 @@
 <div align="center">
 
   <!-- Banner -->
-  <!-- لو رفعت الصورة باسم مختلف، غير banner.png لاسم صورتك -->
   <img src="banner.png" width="100%" alt="Profile Banner">
 
   <br/><br/>
